@@ -1,6 +1,6 @@
-#Django Built-in user authentication system
+# Django Built-in user authentication system
 
-##Installation
+## Installation
 
 virtualenv env
 
