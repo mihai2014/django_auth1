@@ -10,6 +10,8 @@ pip install -r requirements.txt
 
 python manage.py migrate
 
+(or ./init.sh up to here)
+
 python manage.py runserver
 
 localhost:8000
