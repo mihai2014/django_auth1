@@ -1,6 +1,6 @@
-*Django Built-in user authentication system
+#Django Built-in user authentication system
 
-**Installation
+##Installation
 
 virtualenv env
 
@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 python manage.py migrate
 
-(or ./init.sh up to here)
+*(or ./init.sh up to here)*
 
 python manage.py runserver
 
